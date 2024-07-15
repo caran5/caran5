@@ -1,5 +1,5 @@
 * Hi, my name is Ceejay.
-* I am a Chemical Engineering and Biomolecular Engineering major at the Univrsity of Illinois Urbana-Champaign with a minor in Material Science and Engineering. I have a focus on Biomolecular Engineering.
+* I am a Chemical Engineering and Biomolecular Engineering major at the University of Illinois Urbana-Champaign with a minor in Material Science and Engineering. I have a focus on Biomolecular Engineering.
 * I am interested in electronic materials and pharmaceuticals.
   
 
