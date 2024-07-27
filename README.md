@@ -1,7 +1,7 @@
-* Hi, my name is Ceejay.
-* I am a Chemical Engineering and Biomolecular Engineering major at the University of Illinois Urbana-Champaign with a minor in Material Science and Engineering. I have a focus on Biomolecular Engineering.
-* I am interested in electronic materials and pharmaceuticals.
-  
+* I am an undergraduate researcher at the University of Illinois Urbana-Champaign.
+* I major in Chemical Engineering, with a focus on Biomolecular Engineering, and have a minor in Electrical and Computer Engineering.
+* I am especially interested in semiconductors, machine learning, and computational chemistry and biology.
+* My repos focus on applying machine learning models to biological and chemical systems. 
 
 <!---
 caran5/caran5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
