@@ -1,5 +1,5 @@
 * I am an undergraduate researcher at the University of Illinois Urbana-Champaign.
-* I major in Chemical Engineering, with a focus on Biomolecular Engineering, and have a minor in Electrical and Computer Engineering.
+* I major in Chemical Engineering, with a focus on Biomolecular Engineering, and have a minor in Semiconductor Engineering.
 * I am especially interested in semiconductors, machine learning, and computational chemistry and biology.
 * My repos focus on applying machine learning models to biological and chemical systems, but also creating applications to streamline processes such as financial analysis.
 
