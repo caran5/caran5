@@ -1,4 +1,4 @@
-Third year student studying Chemical and Biomolecular Engineering at the University of Illinois Urbana-Champaign with an interest of computational biology and the intersection of automation engineering in chemical engineering domains. Undergraduate research assistant at the Huimin Zhao Group at the Institute of Genomic Biology and the NSF iBioFoundry.
+Third year student studying Chemical and Biomolecular Engineering at the University of Illinois Urbana-Champaign with an interest of computational biology/chemistry and the intersection of lean and automation engineering in the domain of pharmaceutical advancement. Undergraduate research assistant at the Huimin Zhao Group at the Institute of Genomic Biology and the NSF iBioFoundry.
 
 Incoming engineer @ Eli Lilly & Company. Previous work @ Procter & Gamble.
 <!---
